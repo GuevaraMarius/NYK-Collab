@@ -13,22 +13,21 @@ body{
     margin-top: -660px;
     margin-left: auto;
     width: 300px;
-    height: 100vh;
+    height: 133vh;
     background-color: darkgreen;
     color: white;
     justify-content: center;
     align-items: center;
-    
-    
-    
+}
 
 .container{
-    margin-left:20%;
+    margin-top: -506px;
+    margin-left:10%;
     background-color:green;
     font-family:'Times New Roman';
     border-radius: 5px;
-    width:500px;
-    height: 260px;
+    width:650px;
+    height: 87vh;
     border:9px solid;
     border-bottom-left-radius: 9px;
     border-top-color: rgb(33, 134, 223);
@@ -38,9 +37,6 @@ body{
     border-bottom-right-radius: 9px;
     border-top-right-radius: 9px;
     border-top-left-radius: 9px;
-    
-   
- 
 }
 .iterms{
     font-size: 45px;
