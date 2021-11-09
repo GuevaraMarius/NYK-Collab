@@ -22,6 +22,34 @@ body{
     
     
 
+.container{
+    margin-left:20%;
+    background-color:green;
+    font-family:'Times New Roman';
+    border-radius: 5px;
+    width:500px;
+    height: 260px;
+    border:9px solid;
+    border-bottom-left-radius: 9px;
+    border-top-color: rgb(33, 134, 223);
+    border-bottom-color: rgb(44, 42, 165);
+    border-right-color:cyan;
+    border-left-color: coral;
+    border-bottom-right-radius: 9px;
+    border-top-right-radius: 9px;
+    border-top-left-radius: 9px;
+    
+   
+ 
+}
+.iterms{
+    font-size: 45px;
+    color:hsl(0, 0%, 96%);
+    padding-top:68px;
+    display: flex;
+    justify-content:center;
+    
+    
 }
 .footer {
     position: fixed;
