@@ -13,15 +13,39 @@ body{
     margin-top: -660px;
     margin-left: auto;
     width: 300px;
-    height: 100vh;
+    height: 106vh;
     background-color: darkgreen;
     color: white;
     justify-content: center;
     align-items: center;
-    
-    
-    
+}
 
+.container{
+    margin-top: -630px;
+    margin-left:10%;
+    background-color:green;
+    font-family:'Times New Roman';
+    border-radius: 5px;
+    width:899px;
+    height: 90vh;
+    border:9px solid;
+    border-bottom-left-radius: 9px;
+    border-top-color: rgb(33, 134, 223);
+    border-bottom-color: rgb(44, 42, 165);
+    border-right-color:cyan;
+    border-left-color: coral;
+    border-bottom-right-radius: 9px;
+    border-top-right-radius: 9px;
+    border-top-left-radius: 9px;
+}
+.iterms{
+    font-size: 45px;
+    color:hsl(0, 0%, 96%);
+    padding-top:68px;
+    display: flex;
+    justify-content:center;
+    
+    
 }
 .footer {
     position: fixed;
